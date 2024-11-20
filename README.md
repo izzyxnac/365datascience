@@ -41,7 +41,3 @@ Don't just take our word for it—read testimonials from our users who have adva
 ## Contact
 
 For any inquiries or support, please don't hesitate to create an issue in this repository or contact us directly through our support channels.
-
-## License
-
-This project and all associated content are licensed under the MIT License—see the [LICENSE.md](LICENSE.md) file for details.
